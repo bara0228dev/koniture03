@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>코니처 – 장롱 이전·분해 전문</title>
+    <link>https://koniture03.co.kr/</link>
+    <description>장롱 이전·분해, 붙박이장 해체·재설치 전문 코니처의 소식과 시공 사례</description>
+    <language>ko-KR</language>
+    <lastBuildDate>Sun, 04 Oct 2026 09:00:00 +0900</lastBuildDate>
+    <atom:link href="https://koniture03.co.kr/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>장롱 이전·장롱 분해 – 붙박이장 해체·재설치 전문 코니처</title>
+      <link>https://koniture03.co.kr/</link>
+      <guid isPermaLink="true">https://koniture03.co.kr/</guid>
+      <pubDate>Sun, 04 Oct 2026 09:00:00 +0900</pubDate>
+      <description>한샘·리바트·에넥스·까사미아 장롱 이전, 분해, 재설치, 버리기까지. 서울·경기·수도권 전 지역 방문.</description>
+    </item>
+    <item>
+      <title>장롱 이전설치·분해 시공 사례</title>
+      <link>https://koniture03.co.kr/#cases</link>
+      <guid isPermaLink="true">https://koniture03.co.kr/#cases</guid>
+      <pubDate>Sun, 04 Oct 2026 09:00:00 +0900</pubDate>
+      <description>한샘 붙박이장, 리바트 거울도어 장롱, 에넥스 슬라이드 장롱 등 실제 해체·재설치·철거 현장.</description>
+    </item>
+    <item>
+      <title>장롱 이전 출장 지역 안내 (서울·경기·수도권)</title>
+      <link>https://koniture03.co.kr/#area</link>
+      <guid isPermaLink="true">https://koniture03.co.kr/#area</guid>
+      <pubDate>Sun, 04 Oct 2026 09:00:00 +0900</pubDate>
+      <description>서울, 경기 및 수도권 전체 방문 상담.</description>
+    </item>
+    <item>
+      <title>장롱 이전·분해 자주 묻는 질문</title>
+      <link>https://koniture03.co.kr/#faq</link>
+      <guid isPermaLink="true">https://koniture03.co.kr/#faq</guid>
+      <pubDate>Sun, 04 Oct 2026 09:00:00 +0900</pubDate>
+      <description>장롱 분해만 맡기기, 장롱 버리기, 일부만 이전, 비용 산정 방식 등 자주 묻는 질문.</description>
+    </item>
+  </channel>
+</rss>
